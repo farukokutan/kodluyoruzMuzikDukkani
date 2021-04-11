@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.text-logo{
+    background-color: #364547;
+    color: #ffffff;
+    padding: 10px;
+    font-family: 'Satisfy', cursive;
+    font-weight: 100;
+}
+
+nav{
+    background-color: #9dbeb9;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    display: inline-flex;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav ul li a{
+    font-size: 16px;
+    margin: 50px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.muzikaletleri{
+    text-align: center;
+    margin-top: 10px;
+    list-style-position: inside;
+}
+
+.hakkimizda{
+    padding: 15px;
+    text-align: initial;
+}
+
+.txt-urunlerimiz, .txt-anasayfa{
+    padding: 15px;
+    font-size: 25px;
+}
+
+.urun-img{
+    width: 250px;
+}
+
+#urunler li{
+    padding: 55px;
+}
+
+#urunler p{
+    font-size: 18px;
+}
+
+.sepeteekle{
+    height: 40px;
+    width: 125px;
+    padding: 10px auto;
+    margin: 10px auto;
+    border-radius: 3px;
+    border: 1px solid;
+    box-shadow: 1px 4px 3px #ccc;
+}
